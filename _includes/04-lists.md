@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. H
+2. A
+3. P
