@@ -1,1 +1,1 @@
-![image of haps](https://imgur.com/gallery/4d7XNtP)
+![image of haps](https://octodex.github.com/images/yaktocat.png)
